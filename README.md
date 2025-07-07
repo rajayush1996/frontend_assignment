@@ -1,3 +1,5 @@
+# Frontend README
+
 ## Overview
 
 This is the React frontend for the Employee App, built with Vite, Tailwind CSS, Apollo Client, and Headless UI. It consumes the GraphQL API to provide a POC for:
@@ -22,9 +24,20 @@ This is the React frontend for the Employee App, built with Vite, Tailwind CSS, 
 
 ## Prerequisites
 
-* Node.js (v16 or later)
-* npm or yarn
 * A running GraphQL backend (see backend README)
+
+## Default Credentials
+
+To quickly test the login flow, the following users are seeded by default:
+
+* **Admin**
+
+  * Username: `admin`
+  * Password: `admin123`
+* **Employee**
+
+  * Username: `employee`
+  * Password: `emp123`
 
 ## Setup & Installation
 
@@ -127,4 +140,4 @@ frontend/
 
 ## License
 
-MIT © Ayush Raj
+MIT © Your Name

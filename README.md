@@ -127,4 +127,4 @@ frontend/
 
 ## License
 
-MIT © Your Name
+MIT © Ayush Raj
